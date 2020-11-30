@@ -1,0 +1,10 @@
+.parallax {
+    background-image: url(https://pm1.narvii.com/6441/8ac6a881c41653bf99139002d49fae920cedd142_hq.jpg);
+
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
